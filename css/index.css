@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hidden{
+    display: none;
+}
+
+.py-rem{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.my-rem{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.container {
+    max-width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-block-end: 2px;
+    padding: 5px 10px;
+}
+
+main{
+    margin-top: 30px;
+}
+
+.form{
+ padding:7px 0px;
+}
+
+.div-form{
+    margin-bottom: 10px;
+}
+
+.nav a{
+    padding-left: 5px;
+    font-size: 17px;
+}
